@@ -1,0 +1,10 @@
+{
+    "PORT":"number",
+    "USER_DB_URL":"string",
+    "EXAMPLE_DB_URL":"string",
+    "FLAG":"boolean",
+    "ACCESS":[
+        "ADMIN",
+        "STUDENT",
+        "FACULTY"]
+}
